@@ -1,0 +1,22 @@
+GIT
+  remote: git@github.com:karnov/xml-toolbox.git
+  revision: 1bc22dfca76787951f5143d90a19644f0f6b00f9
+  specs:
+    xml_toolbox (0.10.10)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile2 (2.1.0)
+    nokogiri (1.7.0.1)
+      mini_portile2 (~> 2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri
+  xml_toolbox!
+
+BUNDLED WITH
+   1.13.6

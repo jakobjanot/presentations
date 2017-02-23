@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DOM
+  PUBLIC '-//Thomson Information AS//DTD DOM//DK'
+  'alldom.dtd'>
+<DOM ATYPE="MANGLERAT" DATO="20000920" DOCTYPE="MDT" DOMSTOL="V" DTYPE="MANGLERDT" JOURNR="B-1301-98" PRESID="VL2000.B-1301-98">
+    <DOMOV>Vestre Landsrets dom af 20. september 2000, j.nr. B-1301-98</DOMOV>
+    <DOMMERE>(Landsdommerne 
+        <DOMMER>Fritse Hove, </DOMMER>
+        <DOMMER>Olav D. Larsen og </DOMMER>
+        <DOMMER>Jens Chr. Brodersen (kst.))</DOMMER></DOMMERE>
+    <PARTER>
+        <PART>
+            <NAVN>Bent Pedersen</NAVN>A/S (v/adv. K. Havkrog Pedersen)</PART>
+        <MOD>mod</MOD>
+        <PART>Skatteministeriet (km.adv. v/adv. Finn Jepsen)</PART>
+    </PARTER>
+    <KILDE ID="TFS20000903">TfS 2000, 903</KILDE>
+    <SAGSRESUME>
+        <STIKORD>Registreringsafgift for motorkøretøjer - overgangsbestemmelse</STIKORD>
+        <HOVEDRESUME ID="VL2000.B.1301.98.RESUME">En køber, som ikke brugte varebiler til kørsel, var ikke slutbruger i relation til overgangsbestemmelserne i 
+            <LR IDREF="L1997363" LINKSTAT="ONLINE" REL="0">lov nr. 363 af 2.6.1997</LR>
+            om ændring af registreringsafgiftsloven. Afgiftsberigtigelse kunne for disse biler ikke ske efter de hidtil gældende regler.</HOVEDRESUME>
+    </SAGSRESUME>
+    <SAGSRESUME KILDE="TFS">
+        <HOVEDRESUME ID="VL2000.B.1301.98.TFSRESUME">
+            <TXT ID="VL2000.B.1301.98.20140212011724.1">Sagen vedrører fortolkning af en overgangsbestemmelse i lov om ændring af lov om registreringsafgift af motorkøretøjer m.v. vedrørende omlægning af varebilbeskatningen, hvorefter visse køretøjer i en overgangsperiode kunne afgiftsberigtiges efter de hidtil gældende regler. Det var efter bestemmelsen bl.a. en betingelse, at der skulle være indgået en bindende kontrakt om køb med slutbrugeren inden den 6/5 1997. Selskabet havde den 21/4 1997 indgået en aftale med Mercedes-Benz Finans Danmark A/S om salg af 91 varebiler, hvoraf alene 54 blev leveret. Skattemyndighederne havde afgiftsberigtiget bilerne efter de nye regler i lov om registreringsafgift af motorkøretøjer og ikke anset varebilerne for omfattet af overgangsbestemmelsen. Landsretten fandt, at køberen, som ikke brugte varebilerne til kørsel, ikke kunne anses for slutbruger i overgangsbestemmelsens     forstand. Landsretten fandt herefter, at alene 2 biler, hvor der var indgået salgsaftale med konkrete slutbrugere, kunne afgiftsberigtiges efter de hidtil gældende regler.</TXT>
+        </HOVEDRESUME>
+    </SAGSRESUME>
+    <SAGSBESK>
+        <TXT ID="VL2000.B.1301.98.20110417085640.1">Denne sag, som er anlagt den 14/5 1998, drejer sig om, hvorvidt sagsøgte, Skatteministeriet, har været berettiget til at afkræve sagsøgeren, 
+            <NAVN>Bent Pedersen</NAVN>
+            A/S, registreringsafgift for 54 nærmere beskrevne køretøjer i henhold til 
+            <LR IDREF="L1997363" LINKSTAT="EJVAL" REL="0">lov nr. 363 af 2/6 1997</LR>
+            om ændring af lov om registreringsafgift af motorkøretøjer m.v. og lov om vægtafgift af motorkøretøjer m.v. § 1, eller om sagsøgeren har krav på i henhold til overgangsbestemmelsen i samme lovs § 3, stk. 3, at lade køretøjerne afgiftsberigtige i henhold til de før lovændringen gældende regler.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.2">Sagsøgeren har nedlagt påstand om, at sagsøgte til sagsøgeren tilpligtes at betale principalt 1.128.479 kr., subsidiært 448.521 kr. og mere subsidiært 59.704 kr. alt med tillæg af procesrente fra den 16/4 1998, subsidiært fra sagens anlæg.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.3">Sagsøgte har nedlagt påstand om frifindelse.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.4">Sagsøgerens subsidiære påstand svarer til afgiftsberigtigelse af 24 af de 54 køretøjer efter de hidtil gældende regler. Den mere subsidiære påstand svarer til afgiftsberigtigelse af to køretøjer efter de hidtil gældende regler.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.5">Sagsøgte har ikke bestridt den beløbsmæssige opgørelse af sagsøgerens påstande.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.6">Den 21/4 1997 udstedte sagsøgeren en ordrebekræftelse til Mercedes-Benz Finans Danmark A/S om salg af 91 varevogne. Af ordrebekræftelsen, der den 28/4 samme år blev accepteret af Mercedes-Benz Finans Danmark A/S, fremgår følgende:</TXT>
+        <TXTO>
+            <KUR>&quot;Ordrebekræftelse</KUR>
+        </TXTO>
+        <TXT ID="VL2000.B.1301.98.20110417085640.7">I henhold til aftale har vi hermed fornøjelsen at bekræfte Deres ordre på:</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.8">38 stk. fabriksnye Mercedes-Benz Vito kassevogne, udstyr og farve efter nærmere aftale.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.9">Grundpris og udstyr i henhold til vedlagte maj 1997 prisliste.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.10">11 stk. fabriksnye Mercedes-Benz V-klasse, udstyr og farve efter nærmere aftale.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.11">Grundpris og udstyr i henhold til vedlagte januar 1997 prisliste.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.12">42 stk. fabriksnye Mercedes-Benz Sprinter chassis og kassevogne, udstyr, opbygning og farve efter nærmere aftale.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.13">Grundpriser og udstyr i henhold til vedlagte januar 1997 prislister.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.14">Endeligt fabriksudstyr og farver aftales løbende umiddelbart før vor ordreafgivelse til fabrikken. Ønsket udstyr ud over det i vedlagte prislister anførte tillægges efter særskilt tilbud i hvert enkelt tilfælde.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.15">Levering:</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.16">Alle leveres i 2. halvår 1997, endelig leveringsdato aftales for de enkelte køretøjer.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.17">Betaling:</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.18">Netto kontant ved levering.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.19">Ordrebekræftelsen afgives med forbehold for ændringer i valutakurser, samt for almindelig force majeure.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.20">…&quot;</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.21">Ordrebekræftelsen var vedlagt sagsøgerens almindelige salgsbetingelser.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.22">Sagsøgeren rettede henvendelse til Told- og Skatteregion Esbjerg vedrørende varevognene omfattet af aftalen med Mercedes-Benz Finans Danmark A/S, idet disse ønskedes afgiftsberigtiget i henhold til overgangsbestemmelsen i 
+            <LR IDREF="L1997363" LINKSTAT="EJVAL" REL="0">lov nr. 363 af 2/6 1997</LR>
+            .</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.23">Told- og Skatteregion Esbjerg meddelte imidlertid i skrivelse af 3/12 1997, at salg til Mercedes-Benz Finans Danmark A/S ikke kunne anses for at være omfattet af overgangsbestemmelsen. I skrivelsen - afgørelsen - hedder det blandt andet:</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.24">&quot;BP har over for Regionen oplyst, at kunderne typisk henvender sig til BP A/S for at købe/lease en bil. Det er ligeledes BP A/S der har service m.v. på bilerne og sørger for indregistrering og afgiftsberigtigelse.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.25">Vi opfatter herefter BP A/S som den egentlige leverandør af bilerne og MB Finans som finansieringsselskab. Kontakten mellem MB Finans og slutbrugeren etableres først når kunden (slutbrugeren) har henvendt sig til BP A/S for at købe/lease en bil. På tidspunktet for indgåelse af aftalen mellem MB Finans og BP A/S (den 21/4 1997) kendes slutbrugeren ikke. Det er herefter vores opfattelse, at aftalen mellem BP A/S og MB Finans ikke kan betragtes som en &quot;bindende forbrugerkontrakt til en slutbruger&quot; jf. formuleringen i Nyhedsbrevet af 2/6 1997.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.26">…&quot;</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.27">Det nævnte nyhedsbrev af 2/6 1997 var blevet udsendt af Told- og Skattestyrelsen til virksomheder registreret efter lov om registreringsafgift af motorkøretøjer med videre.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.28">Danmarks Automobilforhandler Forening indbragte på sagsøgerens vegne afgørelsen af 3/12 1997 for Told- og Skattestyrelsen.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.29">Den 30/12 1997 blev 24 af de 54 varebiler indregistreret med Mercedes-Benz Finans Danmark A/S som bruger.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.30">Sagsøgeren afgiftsberigtigede inden udgangen af december måned 1997 de 54 varebiler efter de hidtil gældende regler i 
+            <LR IDREF="LBKG2007804" LINKSTAT="EJVAL" REL="0" TARGETTYPE="REL">registreringsafgiftsloven</LR>
+            .</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.31">Told- og Skattestyrelsen fastholdt i en afgørelse af 25/2 1998 afgørelsen truffet af Told- og Skatteregion Esbjerg, idet man bemærkede, at aftalen med Mercedes-Benz Finans Danmark A/S ikke kunne &quot;betragtes eller sidestilles med en sådan bindende forbrugerkontrakt som nævnt i § 3, stk. 3, i 
+            <LR IDREF="L1997363" LINKSTAT="EJVAL" REL="0">lov nr. 363 af 2/6 1997</LR>
+            &quot;.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.32">Ved brev af 2/4 1998 afgav Told- og Skatteregion Esbjerg påkrav om betaling af yderligere 1.128.479 kr. i registreringsafgift for de 54 biler.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.33">Sagsøgeren betalte den 15/4 1998 det krævede beløb med angivelse af, at betalingen skete under protest og med forbehold om tilbagesøgning med tillæg af renter.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.34">Der er under sagen fremlagt salgsaftaler vedrørende to af de biler, som ikke blev registreret med finansieringsselskabet som bruger. Disse aftaler blev indgået henholdsvis den 29/4 1997 med Tømrer- og Snedkerfirmaet 
+            <NAVN>Erik Schmidt</NAVN>
+            og den 30/4 1997 med 
+            <NAVN>L. Bechsgaard</NAVN>
+            A/S, og levering skete i 2. halvår af 1997. Differenceafgiften vedrørende disse biler udgør 59.704 kr. svarende til beløbet i sagsøgerens mere subsidiære påstand.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.35">Der er mellem parterne enighed om, at der for de øvrige 52 biler ikke inden den 6/5 1997 var indgået aftaler med leasingtagere eller købere.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.36">
+            <NAVN>Bent Pedersen</NAVN>har forklaret, at han er direktør for og eneejer af det sagsøgende selskab. Aftalen med Mercedes-Benz Finans Danmark A/S angik varevogne på mellem 2 og 4 tons. Det var en bindende aftale med baggrund i et ønske om at sælge biler, men han vil ikke afvise at have udtalt, at det også var et formål at gardere sig mod følgerne af en forventet afgiftsomlægning. Aftalen angik 91 biler, men det viste sig senere, at importøren alene kunne levere 54. Det sker ofte, at importøren afviser ordrer. Sagsøgeren afgav månedsvis ordrer til importøren. Bilerne blev herefter normalt leveret 2-3 måneder senere. Den enkelte bils stelnummer får sagsøgeren normalt oplyst, når importøren har modtaget bilen fra fabrikken. Den fremlagte slutseddel af 30/4 1997 vedrører en bil, som var på lager. Den skulle dog først leveres den 30/12 1997 på grund af kundens forhold. Kunden leasede bilen gennem Mercedes-Benz Finans Danmark A/S. Kontakten til leasingtagerne blev etableret af sælgere hos sagsøgeren, og sagsøgerens ansatte forestod afleveringen af bilerne. Det var ikke muligt at levere flere end 54 biler, og finansieringsselskabet har ikke rejst krav i den anledning.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.37">
+            <NAVN>L. Bechsgaard</NAVN>har forklaret, at han i 1997 var salgschef hos Mercedes-Benz Finans Danmark A/S. Han indgik aftalen med sagsøgeren om køb af 91 varebiler. Det var en almindelig forretningsmæssig disposition, som havde til formål at have biler med gammel afgift til rådighed, når det øvrige marked efter en afgiftsændring forventeligt ville gå i stå. Man havde ikke på dette tidspunkt viden om, hvorledes en overgangsbestemmelse ville blive udformet. Man aftalte levering af 91 biler, da man vurderede, at det var det højeste antal, som sagsøgeren ville kunne levere. Det var en meget lille del af de ca. 2.500 biler, som Mercedes-Benz Finans Danmark A/S årligt finansierede. Han indgik i foråret 1997 tilsvarende aftaler med andre Mercedes-forhandlere. Bilerne var i aftalen typemæssigt identificeret, og der skulle så efterfølgende ske konkrete bestillinger af det udstyr, som leasingtagerne måtte ønske. Vidnet var bekendt med, at forhandlerne af importøren blev tildelt faste leveringskvoter, men at der kunne opstå afvigelser. Vidnet har løbende nævnt, at man ønskede levering af så mange biler som muligt, og han havde tillid til, at 
+            <NAVN>Bent Pedersen</NAVN>
+            respekterede dette. I december 1997 fik han oplyst, at sagsøgeren alene kunne levere 54 af de aftalte 91 biler. Han rykkede uden resultat sagsøgeren for yderligere biler. Hensynet til den fremtidige samhandel medførte, at det ikke var aktuelt at fremsætte et erstatningskrav mod sagsøgeren.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.38">Fuldmægtig i Told- og Skatteregion Esbjerg, Willi Boch, har forklaret, at han hovedsageligt er beskæftiget med motorbeskatning. Regionens brug af betegnelsen &quot;forbrugerkontrakt&quot;, som er ensbetydende med slutseddel, stammer fra Told- og Skattestyrelsens nyhedsbrev. Regionen accepterede overvejende den dokumentation - kopier af slutsedler indgået inden den 6/5 1997 som sagsøgeren indgav inden udgangen af oktober måned 1997, således at de pågældende biler er blevet afgiftsberigtiget efter 
+            <LR IDREF="LBKG2007804" LINKSTAT="EJVAL" REL="0" TARGETTYPE="REL">registreringsafgiftslovens</LR>
+            hidtil gældende regler. Det er i den forbindelse ikke blevet tillagt betydning, at en række af disse biler var blevet solgt til erhvervsdrivende. Vedrørende de 54 biler, som retssagen angår, henviste sagsøgeren alene til aftalen af 21/4 1997 med Mercedes-Benz Finans Danmark A/S. På et møde den 3/12 1997 drøftede man uenigheden vedrørende forståelsen af overgangsbestemmelsen, og 
+            <NAVN>Bent Pedersen</NAVN>
+            tilkendegav, at aftalen med finansieringsselskabet var indgået for at imødegå afgiftsomlægningen.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.39">Sagsøgeren har gjort gældende, at aftalen af 21/4 1997, der blev indgået inden ændringslovens skæringstidspunkt den 6/5 1997, er en bindende kontrakt om salg af 91 varebiler til Mercedes-Benz Finans Danmark A/S. Aftalen, der var en sædvanlig forretningsmæssig disposition, angiver bilernes modelbetegnelse, pris og leveringsramme. Bilerne var på aftaletidspunktet endnu ikke fremstillet, og det var derfor ikke da muligt at specificere dem yderligere. Det ændrer ikke aftalens karakter af en bindende kontrakt om køb, at det senere viste sig, at sagsøgeren alene var i stand til at levere 54 af de aftalte 91 varebiler. Det er ligeledes uden betydning, at sagsøgeren forestod kontakten til leasingtagerne. Mercedes-Benz Finans Danmark A/S er slutbruger som anført i overgangsbestemmelsen i ændringslovens § 3, stk. 3, idet selskabet bruger bilerne til udlejning. Anvendelsen af begrebet slutbruger i overgangsbestemmelsen må antages at sigte mod at begrænse bilimportørers mulighed for - som det var tilfældet efter ændringen af 
+            <LR IDREF="LBKG2007804" LINKSTAT="EJVAL" REL="0" TARGETTYPE="REL">registreringsafgiftsloven</LR>
+            ved 
+            <LR IDREF="L1993429" LINKSTAT="EJVAL" REL="0">lov nr. 429 af 25/6 1993</LR>
+            - i en lang periode at opnå afgiftsberigtigelse efter de hidtil gældende regler. Ved fortolkningen af begrebet slutbruger kan der ikke lægges vægt på, at Told- og Skattestyrelsen i sit nyhedsbrev af 2/6 1997 uden hjemmel har opstillet et krav om, at der skal være indgået en &quot;forbrugerkontrakt&quot; før den 6/5 1997 for at opnå afgiftsberigtigelse i henhold til overgangsbestemmelsen.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.40">Særligt til støtte for den subsidiære påstand har sagsøgeren anført, at der vedrørende de 24 varevogne er fremlagt dokumentation for, at de den 30/12 1997 blev registreret med Mercedes-Benz Finans Danmark A/S som bruger. Derfor kan i hvert fald disse biler afgiftsberigtiges efter de hidtil gældende regler.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.41">Til støtte for den mere subsidiære påstand har sagsøgeren anført, at der vedrørende disse biler nu er fremlagt slutsedler, som dokumenterer aftaler med konkrete slutbrugere indgået før 6/5 1997 med levering i 2. halvår af 1997.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.42">Sagsøgte har til støtte for sin påstand gjort gældende, at ingen af de 54 varebiler er omfattet af overgangsbestemmelsen i ændringslovens § 3, stk. 3. Aftalen fra april 1997 mellem sagsøgeren og Mercedes-Benz Finans Danmark A/S er ikke en bindende kontrakt om køb af biler. Eksempelvis taler den manglende nærmere specifikation af de enkelte biler samt det forhold, at der alene blev leveret 54 ud af de angivne 91 biler, imod at anse aftalen for en bindende kontrakt. Endvidere er Mercedes-Benz Finans Danmark A/S ikke &quot;slutbruger&quot; i den forstand, hvori dette udtryk er anvendt i § 3, stk. 3. Det følger både af en ordlydsfortolkning og af overgangsbestemmelsens formål, at slutbrugeren er den, som bruger den pågældende bil til kørsel. Overgangsbestemmelsens anvendelsesområde er af lovgiver udtrykkeligt tilsigtet indskrænket. Ved fremsættelsen af lovforslaget - L 252 - den 6/5 1997 var det i § 3, stk. 3, anført, at afgiftsberigtigelse kunne ske efter de hidtil gældende regler, hvis der var &quot;indgået bindende kontrakt om køb&quot; inden lovforslagets fremsættelse. Dette krav blev under Folketingets behandling skærpet, således at lovens § 3, stk. 3, kom til at indeholde et krav om, at der inden den 6/5 1997 skulle være indgået en bindende kontrakt med køb med &quot;slutbrugeren&quot;. For alle 54 varebiler gælder, at Mercedes-Benz Finans Danmark A/S ikke er slutbruger, og det er i den forbindelse uden betydning, at selskabet den 30/12 1997 blev registreret som bruger i færdselslovens forstand vedrørende 24 af bilerne. Særligt vedrørende de to varebiler omfattet af sagsøgerens mere subsidiære påstand gælder, at den fornødne dokumentation først er fremlagt under retssagen og ikke indgivet til told- og skattemyndighederne inden udgangen af oktober måned 1997 som krævet i ændringsloven. Der er således også for disse to biler korrekt opkrævet afgift efter de nye regler.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.43">
+            <KUR>Landsrettens begrundelse og resultat</KUR>
+        </TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.44">Ved fremsættelsen den 6/5 1997 af lovforslag L 252 om ændring af lov om registreringsafgift af motorkøretøjer m.v. og lov om vægtafgift af motorkøretøjer m.v. var der i § 3, stk. 3, en ikrafttrædelsesbestemmelse, som indebar, at visse køretøjer i en overgangsperiode kunne afgiftsberigtiges efter de hidtil gældende regler. Det var efter bestemmelsen en betingelse, at køretøjet skulle være købt inden lovforslagets fremsættelse, eller at der inden dette tidspunkt skulle være indgået &quot;bindende kontrakt om køb&quot;. Under Folketingets behandling af forslaget blev der vedtaget en ændring af overgangsbestemmelsen, idet det blev præciseret, at den bindende kontrakt skulle være indgået &quot;med slutbrugeren&quot;.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.45">Det anførte forløb og en naturlig sproglig forståelse af udtrykket &quot;slutbruger&quot; medfører, at Mercedes-Benz Finans Danmark A/S - som ikke bruger varebilerne til kørsel - ikke kan anses for slutbruger i overgangsbestemmelsens forstand. Herefter kan aftalen indgået i april 1997 mellem sagsøgeren og Mercedes-Benz Finans Danmark A/S ikke - heller ikke for så vidt angår de 24 biler indregistreret den 30/12 1997 med dette selskab som bruger - begrunde afgiftsberigtigelse i henhold til overgangsbestemmelsen i lovens § 3, stk. 3.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.46">Sagsøgeren kan således ikke få medhold i sin principale eller sin subsidiære påstand.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.47">Sagsøgte har under domsforhandlingen anerkendt, at de nu fremlagte bilag udgør dokumentation for, at de to varebiler, som sagsøgerens mere subsidiære påstand angår, kunne have været afgiftsberigtiget efter de hidtil gældende regler. Der er efter omstændighederne ikke grundlag for at fastslå, at en sådan afgiftsberigtigelse er udelukket som følge af, at disse bilag ikke blev indgivet til Told- og Skatteregion Esbjerg inden udgangen af oktober måned 1997.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.48">Landsretten tager derfor sagsøgerens mere subsidiære påstand til følge.</TXT>
+        <TXTO>
+            <KUR>Thi kendes for ret</KUR>
+        </TXTO>
+        <TXT ID="VL2000.B.1301.98.20110417085640.49">Sagsøgte, Skatteministeriet, skal til sagsøgeren, 
+            <NAVN>Bent Pedersen</NAVN>
+            A/S, betale 59.704 kr. med tillæg af procesrente fra den 16/4 1998, til betaling sker.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.50">Sagsøgeren skal betale 50.000 kr. til sagsøgte i sagsomkostninger.</TXT>
+        <TXT ID="VL2000.B.1301.98.20110417085640.51">Det idømte skal betales inden 14 dage.</TXT>
+    </SAGSBESK>
+</DOM>

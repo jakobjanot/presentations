@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DOM
+  PUBLIC '-//Thomson Information AS//DTD DOM//DK'
+  'alldom.dtd'>
+<DOM ATYPE="MANGLERAT" DATO="20000920" DOCTYPE="MDT" DOMSTOL="V" DTYPE="MANGLERDT" JOURNR="B-1301-98" PRESID="VL2000.B-1301-98">
+    <DOMMERE>(Landsdommerne 
+        <DOMMER>Fritse Hove, </DOMMER>
+        <DOMMER>Olav D. Larsen og </DOMMER>
+        <DOMMER>Jens Chr. Brodersen (kst.))</DOMMER></DOMMERE>
+    <KILDE ID="TFS20000903">TfS 2000, 903</KILDE>
+    <SAGSRESUME>
+        <STIKORD>Registreringsafgift for motorkøretøjer - overgangsbestemmelse</STIKORD>
+        <HOVEDRESUME ID="VL2000.B.1301.98.RESUME">En køber, som ikke brugte varebiler til kørsel, var ikke slutbruger i relation til overgangsbestemmelserne i 
+            <LR IDREF="L1997363" LINKSTAT="ONLINE" REL="0">lov nr. 363 af 2.6.1997</LR>
+            om ændring af registreringsafgiftsloven. Afgiftsberigtigelse kunne for disse biler ikke ske efter de hidtil gældende regler.</HOVEDRESUME>
+    </SAGSRESUME>
+    <SAGSRESUME KILDE="TFS">
+        <HOVEDRESUME ID="VL2000.B.1301.98.TFSRESUME">
+            <TXT ID="VL2000.B.1301.98.20140212011724.1">Sagen vedrører fortolkning af en overgangsbestemmelse i lov om ændring af lov om registreringsafgift af motorkøretøjer m.v. vedrørende omlægning af varebilbeskatningen, hvorefter visse køretøjer i en overgangsperiode kunne afgiftsberigtiges efter de hidtil gældende regler. Det var efter bestemmelsen bl.a. en betingelse, at der skulle være indgået en bindende kontrakt om køb med slutbrugeren inden den 6/5 1997. Selskabet havde den 21/4 1997 indgået en aftale med Mercedes-Benz Finans Danmark A/S om salg af 91 varebiler, hvoraf alene 54 blev leveret. Skattemyndighederne havde afgiftsberigtiget bilerne efter de nye regler i lov om registreringsafgift af motorkøretøjer og ikke anset varebilerne for omfattet af overgangsbestemmelsen. Landsretten fandt, at køberen, som ikke brugte varebilerne til kørsel, ikke kunne anses for slutbruger i overgangsbestemmelsens     forstand. Landsretten fandt herefter, at alene 2 biler, hvor der var indgået salgsaftale med konkrete slutbrugere, kunne afgiftsberigtiges efter de hidtil gældende regler.</TXT>
+        </HOVEDRESUME>
+    </SAGSRESUME>
+</DOM>

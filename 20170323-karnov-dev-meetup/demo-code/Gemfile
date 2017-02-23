@@ -1,0 +1,5 @@
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+gem 'xml_toolbox', git: 'git@github.com:karnov/xml-toolbox.git'
+gem 'nokogiri'
